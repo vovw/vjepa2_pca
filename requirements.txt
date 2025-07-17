@@ -1,5 +1,8 @@
 torch
 torchvision
 numpy
-scikit-learn
 Pillow
+matplotlib
+tqdm
+scipy
+timm

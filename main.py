@@ -6,11 +6,7 @@ from sklearn.decomposition import PCA
 import torchvision.transforms as T
 
 def main(args):
-    # TODO: Load VJEPA2 model
-    # TODO: Preprocess image
-    # TODO: Extract features
-    # TODO: Apply PCA
-    # TODO: Save visualization
+    # TODO: do PCA
     pass
 
 if __name__ == '__main__':
