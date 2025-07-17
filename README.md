@@ -6,7 +6,7 @@ This project contains scripts to visualize and analyze the features learned by t
 
 This repository provides tools to:
 - Visualize 2D and 3D PCA of VJepa features.
-- Compare VJepa PCA with DINOv2 PCA.
+- Compare vjepa2 PCA with DINOv2 PCA.
 - Analyze the effect of masking on VJepa features.
 
 ## Installation
