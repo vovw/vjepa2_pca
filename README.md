@@ -67,13 +67,7 @@ This script performs PCA on vjepa2 with masking and visualizes the results. You 
 python vjepa2_masking_pca.py --image_path images/wiki_cat_0.jpg --mask_ratio 0.3
 ```
 
-### `main.py`
 
-The main script to run the experiments.
-
-```bash
-python main.py
-```
 
 ## Results
 
