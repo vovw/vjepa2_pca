@@ -1,4 +1,5 @@
 # vjepa2 PCA Visualization
+![pca_vjepa_wiki_cat_0](https://github.com/user-attachments/assets/6e88d4b8-e5bc-4dc7-8a20-d247bee126cb)
 
 This project contains scripts to visualize and analyze the features learned by the vjepa2 model using Principal Component Analysis (PCA).
 
